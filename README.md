@@ -1,6 +1,7 @@
 # Telco Customer Churn Analysis
 
 **Tools:** SQL (SQLite), Power BI
+
 **Author:** Merdi Mayindu
 
 ## Business problem
